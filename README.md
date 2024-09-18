@@ -5,5 +5,4 @@ Compomentes necessários:
 -Sensor de chamas
 -LED
 -Resisitores (220 omhs)
--Jumpers
--Protoboard
+-Jumpers- Protoboard
